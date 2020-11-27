@@ -9,11 +9,11 @@ tags:
 
 
 
-### Edge Master Class - Daniel Kahneman: ""A short course in thinking about thinking""
+### Edge Master Class - Daniel Kahneman: "A short course in thinking about thinking"
 
-{% include video id="79498401" provider="vimeo" %}
+Link to Edge Master Class 2007 DANIEL KAHNEMAN: &quot;A SHORT COURSE IN THINKING ABOUT THINKING&quot; | Edge.org](https://www.edge.org/event/edge-master-class-2007-daniel-kahneman-a-short-course-in-thinking-about-thinking)
 
-{% include video id="79498387" provider="vimeo" %}
+
 
 
 
