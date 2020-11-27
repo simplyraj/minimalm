@@ -1,5 +1,5 @@
 ---
-title: "about"
+title: ""
 permalink: /about/
 date: 2020-11-27
 ---
